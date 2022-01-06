@@ -1,1 +1,17 @@
-👋 Hi, I’m @Azalurg
+### Hi there 👋
+
+I'm into computers since I was 10, but still discovering something new. In my free time, I enjoy, marshal arts 🥋, videogames 🎮, bushcraft and hiking 🌲⛺🔥🌳. My daily routine is listening to music 🎧 and surfing the Internet 🌍 to find something new to learn.
+
+## Skills ✨
+
+- 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS
+- 🔌 Backend/Databases: MySQL, Mongo, Neo4j, Redis  
+- 🐍 Other: Git, Python, Bash
+- 🔬 Try once: Skala, R
+
+## About me 📝
+
+- 🎓 I'm a computer science student at the University of Gdańsk
+- 📖 I'm currently learning to become a full stack developer
+- 💻 I'm currently running Windows, but trying to switch to Linux
+- 📫 How to reach me: [Send me an e-mail](mailto:patryk31415@gmail.com)
