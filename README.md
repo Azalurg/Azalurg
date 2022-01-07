@@ -5,14 +5,16 @@ I'm into computers since I was 10, but still discovering something new. In my fr
 If you want to see some of my uni projects [check this out](https://github.com/Azalurg-Uni-Projects) 🔍
 
 </br>
+
 ## Skills ✨
 
 - 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS
 - 🔌 Backend/Databases: MySQL, Mongo, Neo4j, Redis  
 - 🐍 Other: Git, Python, Bash, Docker, Postman
 - 🔬 Try once: Skala, R
-- 
+
 </br>
+
 ## About me 📝
 
 - 🎓 I'm a computer science student at the University of Gdańsk
