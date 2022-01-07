@@ -2,6 +2,8 @@
 
 I'm into computers since I was 10, but still discovering something new. In my free time, I enjoy, marshal arts 🥋, videogames 🎮, bushcraft and hiking 🌲⛺🔥🌳. My daily routine is listening to music 🎧 and surfing the Internet 🌍 to find something new to learn.
 
+If you want to see some of my uni projects [check this out](https://github.com/Azalurg-Uni-Projects) 🔍
+
 ## Skills ✨
 
 - 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS
