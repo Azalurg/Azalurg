@@ -11,7 +11,7 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 - 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS
 - 🔌 Backend/Databases: MySQL, Mongo, Neo4j, Redis  
 - 🐍 Other: Git, Python, Bash, Docker, Postman
-- 🔬 Try once: Scala, R
+- 🔬 Tried once: Scala, R
 
 </br>
 
