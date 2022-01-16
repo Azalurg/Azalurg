@@ -1,6 +1,6 @@
 <h3> Hi there 👋 </h3>
 
-I'm into computers since I was 10, but still discovering something new. In my free time, I enjoy martial arts 🥋, videogames 🎮, bushcraft and hiking 🌲⛺🔥🌳. My daily routine is listening to music 🎧 and surfing the Internet 🌍 to find something new to learn.
+I'm into computers since I was 10, but still discovering something new. In my free time, I enjoy martial arts 🥋, video games 🎮, bushcraft and hiking 🌲⛺🔥🌳. My daily routine is listening to music 🎧 and surfing the Internet 🌍 to find something new to learn.
 
 If you want to see some of my uni projects [check this out](https://github.com/Azalurg-Uni-Projects) 🔍
 
