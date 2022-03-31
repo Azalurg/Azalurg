@@ -19,6 +19,5 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 
 - 🎓 I'm a computer science student at the University of Gdańsk
 - 🌱 I'm currently learning to become a full stack developer
-- 🔭 I'm currently running Windows, but trying to switch to Linux
 - 🤝 I’m looking for help with JavaScript, Python and Bash
 - 📫 How to reach me: [Send me an e-mail](mailto:patryk31415@gmail.com)
