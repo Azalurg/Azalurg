@@ -1,8 +1,14 @@
-<h3> Hi there 👋 </h3>
+# Hi there 👋
 
 I'm into computers since I was 10, but still discovering something new. In my free time, I enjoy martial arts 🥋, video games 🎮, bushcraft and hiking 🌲⛺🔥🌳. My daily routine is listening to music 🎧 and surfing the Internet 🌍 to find something new to learn.
 
 If you want to see some of my uni projects [check this out](https://github.com/Azalurg-Uni-Projects) 🔍
+
+</br>
+
+## GitHub statistics 💯
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Azalurg&show_icons=true&theme=github_dark )
 
 </br>
 
@@ -12,6 +18,8 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 - 🔌 Backend/Databases: MySQL, Mongo, Neo4j, Redis  
 - 🐍 Other: Git, Python, Bash, Docker, Postman
 - 🔬 Tried once: Scala, R
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Azalurg&theme=github_dark )
 
 </br>
 
