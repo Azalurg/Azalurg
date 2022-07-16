@@ -15,7 +15,7 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 </div>
 
 <div align="center">
-![Snake animation](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.gif)
 </div>
 </br>
 
