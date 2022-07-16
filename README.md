@@ -8,8 +8,15 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 
 ## GitHub statistics 💯
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Azalurg&show_icons=true&theme=github_dark )
+<div align="center">
+  <a href="https://github.com/Azalugr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azalurg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azalurg&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
+<div align="center">
+![Snake animation](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg)
+</div>
 </br>
 
 ## Skills ✨
@@ -17,8 +24,6 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 - 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS, EJS
 - 🔌 Backend/Databases: MySQL, Mongo, Redis  
 - 🐍 Other: Git, Python, Bash, Docker, K8s, Java
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Azalurg&theme=github_dark )
 
 </br>
 
