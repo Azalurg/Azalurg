@@ -17,17 +17,29 @@ If you want to see some of my uni projects [check this out](https://github.com/A
 
 ## Skills ✨
 
-- 📱 Frontend: JavaScript, CSS, HTML, React, Redux, SASS, EJS
-- 🔌 Backend/Databases: MySQL, Mongo, Redis  
+- 📱 Frontend: React, Angular, EJS
+- 🗄 Backend: Express, Flask
+- 🔌 Databases: MySQL, Mongo  
 - 🐍 Other: Git, Python, Bash, Docker, K8s, Java
 
 </br>
 
 ## About me 📝
 
-- 🔭  I’m currently work at Intel Polska
+- 🔭 I’m currently working at Intel Polska
 - 🎓 I'm a computer science student at the University of Gdańsk
 - 🌱 I'm currently learning linux OS
 - 📫 How to reach me: [Send me an e-mail](mailto:patryk31415@gmail.com)
 
-![snake gif](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg)
+## Support me 💸
+
+- BTC: `1AKLzsQPdhbj9fSwfE5iHAC9ctmspKihRp`
+- ERC20: `0x3C9aC26fD984C05fD1cDBD40c293495624Eb79a2`
+- BEP20: `0x3C9aC26fD984C05fD1cDBD40c293495624Eb79a2`
+
+<div align="center">
+  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg">
+<img hight="180em" src="https://github-profile-trophy.vercel.app/?username=azalurg&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
+</div>
+
+
