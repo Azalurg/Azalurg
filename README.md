@@ -13,14 +13,6 @@ If you want to see some of my uni projects, [check this out](https://github.com/
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azalurg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azalurg&layout=compact&langs_count=8&theme=github_dark"/></a>
 </div>
-</br>
-
-## Skills ✨
-
-- 📱 Frontend: React, Angular, EJS
-- 🗄 Backend: Express, Flask
-- 🔌 Databases: MySQL, Mongo  
-- 🐍 Other: Git, Python, Bash, Docker, Kubernetes, Java
 
 </br>
 
@@ -41,3 +33,10 @@ If you want to see some of my uni projects, [check this out](https://github.com/
   <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg">
   <img hight="180em" src="https://github-profile-trophy.vercel.app/?username=azalurg&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
 </div>
+
+<!-- To use in future  -->
+<!-- Hi there! I'm passionate about all things tech and have been hooked on computers since the age of 10. I recently completed my IT studies and am excited to apply my skills and knowledge to real-world projects.
+
+Aside from coding and problem-solving, I enjoy exploring the great outdoors through martial arts, hiking, and bushcraft. When I'm not outside, you can find me tinkering with Linux and discovering new ways to optimize my system.
+
+I'm always on the lookout for new ideas and opportunities to learn and grow. Thanks for stopping by! -->
