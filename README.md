@@ -27,6 +27,6 @@ If you want to see some of my uni projects, [go here](https://github.com/Azalurg
 - BEP20:&ensp;`0x3C9aC26fD984C05fD1cDBD40c293495624Eb79a2`
 
 <div align="center">
-  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg">
+  <img hight="180em" src="https://github.com/Azalurg/Azalurg/blob/output/ocean.svg">
   <img hight="180em" src="https://github-profile-trophy.vercel.app/?username=azalurg&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
 </div>
